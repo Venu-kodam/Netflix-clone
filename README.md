@@ -1,5 +1,6 @@
 # Netflix-clone
-It's a Netflix clone and i used Tmdb api and youtube api for this project,Tmdb api is to fetch the movies data, and youtube api is for fetching the trailer of the movie,tmdb is a website where you get an apikey.
+Netflix clone project is a web application that replicates the functionality and features of the original Netflix platform. The project involves creating a user-friendly interface. For API i used Tmdb api.
+
 #### The live preview is hosted on https://venu-kodam.github.io/Netflix-clone/
 ## Technologies Used
 * HTML
